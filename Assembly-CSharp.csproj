@@ -62,6 +62,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\Scripts\Walk.cs" />
+    <Compile Include="Assets\Scripts\FriendSpeed.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">

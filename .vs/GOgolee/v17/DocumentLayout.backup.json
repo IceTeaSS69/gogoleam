@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\IceTea\\Desktop\\GoProMan\\GOgolee\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\IceTea\\Desktop\\GoProMan\\GOgolee\\Library\\PackageCache\\com.unity.render-pipelines.universal@5ed031f116da\\Shaders\\Lit.shader||{3B902123-F8A7-4915-9F01-361F908088D0}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Library\\PackageCache\\com.unity.render-pipelines.universal@5ed031f116da\\Shaders\\Lit.shader||{3B902123-F8A7-4915-9F01-361F908088D0}"
+      "AbsoluteMoniker": "D:0:0:{A602CC47-4011-C3DE-B878-96EC5C36ADD2}|Assembly-CSharp.csproj|C:\\Users\\IceTea\\Desktop\\GoProMan\\GOgolee\\assets\\scripts\\walk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A602CC47-4011-C3DE-B878-96EC5C36ADD2}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\walk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A602CC47-4011-C3DE-B878-96EC5C36ADD2}|Assembly-CSharp.csproj|c:\\users\\icetea\\desktop\\goproman\\gogolee\\assets\\scripts\\walk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A602CC47-4011-C3DE-B878-96EC5C36ADD2}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\walk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\IceTea\\Desktop\\GoProMan\\GOgolee\\Library\\PackageCache\\com.unity.render-pipelines.universal@5ed031f116da\\Shaders\\Lit.shader||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Library\\PackageCache\\com.unity.render-pipelines.universal@5ed031f116da\\Shaders\\Lit.shader||{3B902123-F8A7-4915-9F01-361F908088D0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,11 +18,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Lit.shader",
               "DocumentMoniker": "C:\\Users\\IceTea\\Desktop\\GoProMan\\GOgolee\\Library\\PackageCache\\com.unity.render-pipelines.universal@5ed031f116da\\Shaders\\Lit.shader",
               "RelativeDocumentMoniker": "Library\\PackageCache\\com.unity.render-pipelines.universal@5ed031f116da\\Shaders\\Lit.shader",
@@ -35,13 +35,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Walk.cs",
               "DocumentMoniker": "C:\\Users\\IceTea\\Desktop\\GoProMan\\GOgolee\\Assets\\Scripts\\Walk.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Walk.cs",
               "ToolTip": "C:\\Users\\IceTea\\Desktop\\GoProMan\\GOgolee\\Assets\\Scripts\\Walk.cs",
               "RelativeToolTip": "Assets\\Scripts\\Walk.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAkAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAABcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-29T17:34:30.565Z",
               "EditorCaption": ""

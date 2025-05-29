@@ -3,7 +3,11 @@
   "WorkspaceRootPath": "C:\\Users\\IceTea\\Desktop\\GoProMan\\GOgolee\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A602CC47-4011-C3DE-B878-96EC5C36ADD2}|Assembly-CSharp.csproj|C:\\Users\\IceTea\\Desktop\\GoProMan\\GOgolee\\assets\\scripts\\walk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A602CC47-4011-C3DE-B878-96EC5C36ADD2}|Assembly-CSharp.csproj|c:\\users\\icetea\\desktop\\goproman\\gogolee\\assets\\scripts\\friendspeed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A602CC47-4011-C3DE-B878-96EC5C36ADD2}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\friendspeed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A602CC47-4011-C3DE-B878-96EC5C36ADD2}|Assembly-CSharp.csproj|c:\\users\\icetea\\desktop\\goproman\\gogolee\\assets\\scripts\\walk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A602CC47-4011-C3DE-B878-96EC5C36ADD2}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\walk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -18,11 +22,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
+              "Title": "FriendSpeed.cs",
+              "DocumentMoniker": "C:\\Users\\IceTea\\Desktop\\GoProMan\\GOgolee\\Assets\\Scripts\\FriendSpeed.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\FriendSpeed.cs",
+              "ToolTip": "C:\\Users\\IceTea\\Desktop\\GoProMan\\GOgolee\\Assets\\Scripts\\FriendSpeed.cs",
+              "RelativeToolTip": "Assets\\Scripts\\FriendSpeed.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T18:00:41.987Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Lit.shader",
               "DocumentMoniker": "C:\\Users\\IceTea\\Desktop\\GoProMan\\GOgolee\\Library\\PackageCache\\com.unity.render-pipelines.universal@5ed031f116da\\Shaders\\Lit.shader",
               "RelativeDocumentMoniker": "Library\\PackageCache\\com.unity.render-pipelines.universal@5ed031f116da\\Shaders\\Lit.shader",
@@ -30,12 +47,11 @@
               "RelativeToolTip": "Library\\PackageCache\\com.unity.render-pipelines.universal@5ed031f116da\\Shaders\\Lit.shader",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002777|",
-              "WhenOpened": "2025-05-29T17:51:53.934Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-29T17:51:53.934Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Walk.cs",
               "DocumentMoniker": "C:\\Users\\IceTea\\Desktop\\GoProMan\\GOgolee\\Assets\\Scripts\\Walk.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Walk.cs",

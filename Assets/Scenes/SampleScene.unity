@@ -960,7 +960,7 @@ Rigidbody2D:
   m_Interpolate: 0
   m_SleepingMode: 1
   m_CollisionDetection: 0
-  m_Constraints: 0
+  m_Constraints: 4
 --- !u!212 &363611487
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -5936,6 +5936,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1693588007}
+  - component: {fileID: 1693588008}
   - component: {fileID: 1693588006}
   - component: {fileID: 1693588005}
   - component: {fileID: 1693588004}
@@ -6018,7 +6019,7 @@ Rigidbody2D:
   m_Interpolate: 0
   m_SleepingMode: 1
   m_CollisionDetection: 0
-  m_Constraints: 0
+  m_Constraints: 4
 --- !u!212 &1693588006
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -6091,6 +6092,21 @@ Transform:
   - {fileID: 1461065423}
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1693588008
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1693588003}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 53788899d7e81084c9138100dfd81cf2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  moveSpeed: 1
+  JumpForce: 5
+  decisionTime: 0.59
 --- !u!1 &1698298893
 GameObject:
   m_ObjectHideFlags: 0
