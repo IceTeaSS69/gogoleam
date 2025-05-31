@@ -2,7 +2,7 @@ using UnityEngine;
 
 public class FriendSpeed : MonoBehaviour
 {
-    // Start is called once before the first execution of Update after the MonoBehaviour is created
+    
     public float moveSpeed = 3f;
     public float JumpForce = 5f;
     public float decisionTime = 2f;
